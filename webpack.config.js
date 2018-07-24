@@ -8,6 +8,7 @@ var config = {
 
   devServer: {
     inline: true,
+    ip: '0.0.0.0',
     port: 8000
   },
 
